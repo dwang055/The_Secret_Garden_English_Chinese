@@ -5,7 +5,7 @@
 
 *Words That Think · 品词坊 · 以词启思*
 
-**▶ Open the reader:** https://dwang055.github.io/[repo-name]/
+**▶ Open the reader:** https://dwang055.github.io/great-gatsby-bilingual-reader/
 
 No sign-up, no download and no app needed. It works in any modern browser on a phone, tablet or computer.
 
